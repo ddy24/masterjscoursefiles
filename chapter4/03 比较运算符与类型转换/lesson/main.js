@@ -21,10 +21,10 @@
 // == !=  === !==  
 //  = = =  严格相等   ! = =  严格不等
 // = = 相等   ! = 不等
-// 1 == 2 // false
+// 1 == 2 // false 
 // 1 != 2 // true
 
-// console.log('123s' > 2) 
+// console.log('123s' > 2)
 
 // NaN Not a Number
 // 跟任何数据比较 都是false 跟NaN比较 都是false
@@ -51,10 +51,10 @@ parseFloat('123.11s12312') // 123.11
 //  仅限一个小数点，遇到其他的非数字字符或者小数点就停止解析
 
 
-// console.log(1 == true)
-// console.log(1 === true)
-// console.log(1 === '1')
-// console.log(1 == '1')
+// console.log(1 == true) 实际中，几乎只使用严格相等或者严格不等
+console.log(1 === true)
+console.log(1 === '1')
+console.log(1 == '1')
 
 // var obj = {
 // 	name : 'xx'

@@ -27,15 +27,15 @@ else 可以有也可以没有，只能有一个，只能在最后
 
 // }else{
 
-// }
+// } 
 
-// var age = 18
+var age = 18
 
-// if(age > 18){
-// 	console.log('可以谈恋爱')
-// }
-// age = 19
-// console.log(age)
+if(age > 18){
+	console.log('可以谈恋爱')
+}
+age = 19
+console.log(age)
 
 var a = 5
 

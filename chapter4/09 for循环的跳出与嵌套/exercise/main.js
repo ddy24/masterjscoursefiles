@@ -5,7 +5,7 @@
 // 	if(lock){
 // 		for(var j = 0; j<10;j++){
 // 		if(j === 5){
-// 			lock = false
+// 			lock = false #// 当j等于5时，锁住，但是在这层里，lock依然是true
 // 		}
 // 		console.log(i + '-' +j)
 // 		}

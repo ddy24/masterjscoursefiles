@@ -15,6 +15,7 @@ document.getElementsByName
   - 传入一个参数  元素的name属性的值
   - 返回一个NodeList 类型的类数组
 
+  
 document.getElementsByTagName 
   - 传入参数 标签名  大小写保持和html元素一致
   - 返回 HTMLCollection 类数组

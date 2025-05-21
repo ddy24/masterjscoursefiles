@@ -4,7 +4,6 @@
 // // console.log(a,3)
 // // console.log(a,4)
 // // console.log(a,5)
-
 // var abc = 100
 // var cfg = 200
 

@@ -1,4 +1,4 @@
-//三目运算符   条件运算符
+//三目运算符   条件运算符 【ternary operator、
 
 // expression ？ expression1 : expression2
 
@@ -9,26 +9,26 @@
 // var age = 26;
 
 // var beverage = age >= 21 ? "Beer" : "Juice";
-
-// console.log(beverage);
+// console.log(beverage)
 // var a = 100 
 // var b = 50
 
 // var result = a > 100 ? b = 666 : b = 333
 
-// //result, b
+// result, b
 // console.log(result,b)
 
 // + - 尝试把数据转换为数字类型 number类型
 // +true
-// -true
+// // -true
 // -''
 // +undefined 
 // +'s' 
 // +'123'
 
 
-// + 
+// + 可以把任何类型转换成string
+
 
 
 var a = true ? 1 : 2
